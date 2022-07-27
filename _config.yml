@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "dasfee33"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/김영상.jpg"
   bio              : "**게임 개발**을 위한 **노력**"
   location         : "South Korea"
   email            : "yeongsanggim08@gmail.com"
